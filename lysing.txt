@@ -1,0 +1,3 @@
+Lısing
+
+Ég ætla ağ bú til PHP vefsíğu meğ myndum şar sem hægt er ağ setja inn myndir inná annan hluta vefsíğunar.
