@@ -1,3 +1,4 @@
 Lısing
 
-Ég ætla ağ bú til PHP vefsíğu meğ myndum şar sem hægt er ağ setja inn myndir inná annan hluta vefsíğunar.
+Ég ætla ağ búa til PHP vefsíğu meğ myndum í tveimur hlutum. á fyrri hlutanum verğur hægt er ağ setja inn myndir inná annan hluta vefsíğunar. 
+Á öğrum hlutanum verğur hægt ağ skoğa myndir sem hafa veriğ settar inn af fyrri hlutanum
