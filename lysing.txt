@@ -1,4 +1,5 @@
 Lısing
 
-Ég ætla ağ búa til PHP vefsíğu meğ myndum í tveimur hlutum. á fyrri hlutanum verğur hægt er ağ setja inn myndir inná annan hluta vefsíğunar. 
-Á öğrum hlutanum verğur hægt ağ skoğa myndir sem hafa veriğ settar inn af fyrri hlutanum
+Ég ætla ağ búa til PHP vefsíğu meğ myndum í tveimur hlutum. á fyrri hlutanum verğur hægt er ağ setja inn myndir inná annan
+hluta vefsíğunar. Á öğrum hlutanum verğur hægt ağ skoğa myndir sem hafa veriğ settar inn af fyrri hlutanum. Einnig verğur hægt
+ağ "skrá sig inn" í gegnum login system og ávallt verğur nauğsynlegt ağ skrá hver setur myndirnar inn.
